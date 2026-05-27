@@ -1,0 +1,86 @@
+Nauman Khan
+Senior Data Engineer | Data Platform Engineer | ETL ELT Architect
+nawarnomaan @gmail.com | (832) 485-7575 | Houston TX, 77077
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8 years of experience designing and scaling distributed data platforms, real-time streaming systems, 
+and cloud-native ETL ELT architectures. Proven expertise in building high-throughput data pipelines using Apache Spark, 
+Databricks, and Kafka across AWS-based ecosystems. Strong background in data lakehouse design, data modeling, and 
+pipeline reliability engineering supporting analytics, ML, and business intelligence workloads.
+PROFESSIONAL EXPERIENCE
+Mage
+Senior Data Engineer
+•
+01/2022 – Present
+Architected a scalable data platform using Databricks and Apache Spark supporting over 30 million daily events across 
+analytics and product domains
+•
+Designed and implemented a lakehouse architecture on AWS S3 using Delta Lake enabling unified batch and streaming data 
+processing
+•
+Built real time streaming infrastructure using Kafka and Spark Structured Streaming with sub second latency and 99.9 
+percent uptime
+•
+Led migration from legacy ETL systems to modern ELT pipelines reducing processing time by 40 percent and improving data 
+freshness SLA
+Implemented CI/ CD pipelines using Terraform and GitHub Actions enabling fully automated deployment of data workflows
+•
+Established an enterprise grade data quality framework reducing downstream data incidents by 35 percent
+•
+RudderStack
+Data Engineer
+•
+06/2019 – 12/2021
+Built high throughput ETL and ELT pipelines processing more than 15 million daily event records across customer data 
+platforms
+Designed scalable Snowflake data warehouse models supporting self serve analytics for product and business teams
+•
+Developed distributed ingestion frameworks integrating multiple event sources into unified data pipelines
+•
+Optimized Spark and SQL workloads improving query performance by 45 percent across analytics dashboards
+•
+Improved data reliability by implementing automated validation and monitoring systems for production pipelines
+•
+Prophecy.io
+ETL Developer
+•
+07/2017 – 05/2019
+Designed and optimized large scale ETL pipelines processing more than 8 million records daily for enterprise analytics use 
+cases
+Built reusable SQL based transformation frameworks for standardized reporting across business units
+•
+Improved query execution performance by 35 percent through indexing strategies and pipeline optimization
+•
+Supported transition from legacy ETL systems to cloud based data processing workflows
+•
+TECHNICAL SKILLS
+Languages: Python, SQL, Scala, Java, Bash
+Big Data & Distributed Systems: Apache Spark, Spark Structured Streaming, Hadoop, Apache Flink, Databricks, Apache Kafka,
+Delta Lake, Apache Hive
+Data Orchestration: Apache Airflow, dbt, Luigi
+Cloud Platforms: AWS S3, Redshift, Glue, Lambda, EMR, EC2, Athena, GCP BigQuery, Dataflow, Pub/Sub, Azure Data Factory,
+Synapse
+Databases & Warehousing: Snowflake, PostgreSQL, MySQL, MongoDB, Cassandra, Amazon Redshift
+Data Engineering Concepts: ETL/ELT pipelines, Data Lakehouse architecture, Medallion architecture (Bronze/Silver/Gold),
+Batch & Streaming systems, Data modeling Star, Snowflake schema, Data contracts, Schema evolution, Data lineage, Data
+governance
+DevOps & Infrastructure: Docker, Kubernetes, Terraform, Helm, Git, CI/CD ,GitHub Actions, Jenkins, GitLab CI
+Data Quality & Observability: Data validation frameworks, Great Expectations, pipeline monitoring, logging & alerting,
+CloudWatch, Prometheus, Grafana
+Performance & Optimization: Query optimization, partitioning strategies, indexing, distributed computing optimization, cost
+optimization in cloud workloads
+EDUCATION
+Bachelor of Science in Computer Science
+2017
+SYSTEM DESIGN PROJECTS
+Real-Time Streaming Data Platform
+Designed end-to-end event streaming architecture using Kafka and Spark Structured Streaming
+•
+Implemented ELT pipeline storing data in AWS S3 and Snowflake for analytics and reporting workloads
+•
+Achieved near real-time processing capabilities supporting operational dashboards
+•
+Enterprise Data Warehouse Modernization
+Designed scalable Snowflake-based data warehouse using star schema and ELT optimization patterns
+•
+Improved BI dashboard performance by 40% through partitioning and query optimization strategies
+•
